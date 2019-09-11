@@ -1,0 +1,5 @@
+com/example/redis/model/Product.class
+com/example/redis/repository/ProductRepository.class
+com/example/redis/redis.class
+com/example/redis/controller/ProductController.class
+com/example/redis/repository/ProductRepositoryImpl.class
